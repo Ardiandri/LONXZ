@@ -1,5 +1,1 @@
-ONIX 1.0
-HDDK
-HDJ
-HSJS
-HS
+1.0 Onyx
